@@ -29,7 +29,7 @@ module.exports = {
         "path": './screenshots' // save screenshots here
       },
       "globals": {
-        "url": "${URL}/#/logout/login",   
+        "url": "${URL}",   
         "user": "${USER}",   
         "pass": "${PASS}",
         "waitForConditionTimeout": 5000 // sometimes internet is slow so wait.
