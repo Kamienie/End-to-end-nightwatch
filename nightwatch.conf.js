@@ -1,4 +1,5 @@
 // Configuration file for Nightwatch
+//
 
 require('env2')('.env'); // optionally store youre Evironment Variables in .env
 const seleniumServer = require("selenium-server");
