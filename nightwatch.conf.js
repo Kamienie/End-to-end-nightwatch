@@ -1,9 +1,4 @@
-// https://github.com/dwyl/learn-nightwatch
-// https://www.freecodecamp.org/news/how-to-easily-start-automatically-testing-your-website-8629ea8df04a/
-// https://saucelabs.com/blog/nightwatchjs-makes-software-test-scripts-fun-and-easy
-// https://testelka.pl/selenium-grid-windows-chrome/
-// https://selenium.dev/downloads/
-// https://github.com/SeleniumHQ/docker-selenium
+// Configuration file for Nightwatch
 
 require('env2')('.env'); // optionally store youre Evironment Variables in .env
 const seleniumServer = require("selenium-server");
